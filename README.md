@@ -16,6 +16,6 @@ The App serves as an exercise for:
 - building contexts
 - building custom hooks
 - building util functions
-- handling forms submittion and validation
+- handling forms submission and validation
 
 
